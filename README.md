@@ -34,7 +34,7 @@ Then open the provided local URL in your browser.
 - `requirements.txt` — Python dependencies
 
 ## Author
-
+My Actual Github account is: ()
 Created by me [Jordan Buckley](https://www.linkedin.com/in/jordan05/)
 
 
